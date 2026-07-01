@@ -124,3 +124,13 @@ https://github.com/ANNADANAMHEMANTHKUMAR
 
 LinkedIn:
 (Add your LinkedIn profile here)
+
+### Day 4 – SQL Setup & Data Import
+
+- Created MySQL database `t20_batting_analysis`
+- Created `ball_by_ball` table schema
+- Imported cleaned CSV dataset (50,200 records)
+- Verified imported data using SQL queries
+- Filtered deliveries from death overs (16–20)
+- Identified 9,229 death-over deliveries for analysis
+- Prepared dataset for batting performance metrics
